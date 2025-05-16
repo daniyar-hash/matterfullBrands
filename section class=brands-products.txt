@@ -1,0 +1,154 @@
+   <section class="brands-products">
+            <div class="brands-wrapper container">
+                <h2 class="brands-products-title">Food & Beverage Spotlight</h2>
+                <ul class="brands-products-list">
+                   <!-- <li class="brands-product-item anonym"></li> -->
+                    <li class="brands-product-item left-indent">
+                            <img src="img/brands-products/1.jpg" alt="cheezy puffss" class="brands-product-image" width="670" height="380">
+                            <div class="brands-product-body">
+                                <h3 class="brands-products-title title">Caulikids</h3>
+                                <h4 class="brands-products-subtitle subtitle">Branding, Packaging Design, Content, G2M Marketing</h4>
+                                <div class="brands-products-desc"><p>CauliKids is a plant-based line of healthy snacks for kids! <br>
+                                    Launching in Spring 2023</p></div>
+                            </div>
+                            
+                          
+                    </li>
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/2.jpg" alt="superfruit juice " class="brands-product-image" width="670" height="380">
+                        <div class="brands-product-body">
+                            <h3 class="brands-products-title title">Amayu</h3>
+                            <h4 class="brands-products-subtitle subtitle">Content, Website, Social Media, Amazon Design</h4>
+                            <div class="brands-products-desc"><p>Sustainably harvested from the Peruvian 
+                                Amazon, Amayu is a superfruit <br>juice packed with vitamins and antioxidants.</p></div>
+                        </div>
+                    </li>
+                   <li class="brands-product-item">
+                    <div class="brands-product-slider image-position">
+                        <span class="brands-product-slider-before slider-mark" data-value="before"></span>
+                        <img src="img/brands-products/3.1.jpg" alt="superfruit juice " class="brands-product-image before" width="470" height="584">
+                        <span class="brands-product-slider-after slider-mark" data-value="after"></span>
+                        <div class="slider-button-wrapper">
+                             <button class="button-slider button-back" type="button">
+                                <svg viewBox="0 0 9 15" fill="none" class="icon-back slider" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.98438 14.1875C7.68438 14.1875 7.48438 14.0875 7.28438 13.8875L0.584381 7.1875L7.28438 0.4875C7.68438 0.0875 8.28438 0.0875 8.68438 0.4875C9.08438 0.8875 9.08438 1.4875 8.68438 1.8875L3.38438 7.1875L8.68438 12.4875C9.08438 12.8875 9.08438 13.4875 8.68438 13.8875C8.48438 14.0875 8.28438 14.1875 7.98438 14.1875Z"/>
+                                </svg>
+                             </button>
+                            <button class="button-slider button-next" type="button">
+                                <svg viewBox="0 0 10 15" fill="none" class="icon-next slider" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.98438 14.1875C1.68438 14.1875 1.48438 14.0875 1.28438 13.8875C0.884375 13.4875 0.884375 12.8875 1.28438 12.4875L6.58437 7.1875L1.28438 1.8875C0.884375 1.4875 0.884375 0.8875 1.28438 0.4875C1.68438 0.0875 2.28438 0.0875 2.68438 0.4875L9.38438 7.1875L2.68438 13.8875C2.48438 14.0875 2.28438 14.1875 1.98438 14.1875Z"/>
+                                </svg>
+                                    
+                            </button>
+                        </div>
+                    </div>
+                  
+                   </li>
+                   <li class="brands-product-item">
+                    <img src="img/brands-products/4.jpg" alt="sea solt" class="brands-product-image only-image" width="470" height="607">
+                
+                   </li>
+                   <li class="brands-product-item">
+                    <img src="img/brands-products/5.jpg" alt="plant protein bar" class="brands-product-image" width="670" height="380">
+                    <div class="brands-product-body">
+                        <h3 class="brands-products-title title">Mezcla</h3>
+                        <h4 class="brands-products-subtitle subtitle">Branding, Packaging, Web & E-comm, Amazon, G2M</h4>
+                        <div class="brands-products-desc"><p>Mezcla is arguably the fastest growing plant protein bar in the better-for-you space. Each bar fuses 
+                            art and food, featuring ingredients and designs from around the world.</p></div>
+                    </div>
+                    
+                    </li>
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/6.jpg" alt="garlic dip" class="brands-product-image" width="670" height="380">
+                        <div class="brands-product-body">
+                            <h3 class="brands-products-title title">Toum</h3>
+                            <h4 class="brands-products-subtitle subtitle">Branding, Packaging Design, Website</h4>
+                            <div class="brands-products-desc"><p>Toum is middle eastern garlic dip and spread made from all REAL ingredients. Suspiciously healthy and deliciously addictive,
+                                you’ll want to put it on everything. We do!</p></div>
+                        </div>
+                            </li>
+                    <!-- <li class="brands-product-item anonym"></li> -->
+                    <li class="brands-product-item left-indent
+                    ">
+                        <div class="brands-product-slider image-position">
+                            <span class="brands-product-slider-before slider-mark" data-value="before"></span>
+
+                            <img src="img/brands-products/7.1.jpg" alt="chickpea snaks all-naturall" class="brands-product-image before" width="470" height="584">
+                            <span class="brands-product-slider-after slider-mark" data-value="after"></span>
+
+                            <div class="slider-button-wrapper">
+                                <button class="button-slider button-back" type="button">
+                                   <svg viewBox="0 0 9 15" fill="none" class="icon-back slider" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M7.98438 14.1875C7.68438 14.1875 7.48438 14.0875 7.28438 13.8875L0.584381 7.1875L7.28438 0.4875C7.68438 0.0875 8.28438 0.0875 8.68438 0.4875C9.08438 0.8875 9.08438 1.4875 8.68438 1.8875L3.38438 7.1875L8.68438 12.4875C9.08438 12.8875 9.08438 13.4875 8.68438 13.8875C8.48438 14.0875 8.28438 14.1875 7.98438 14.1875Z"/>
+                                   </svg>
+                                </button>
+                               <button class="button-slider button-next" type="button">
+                                   <svg viewBox="0 0 10 15" fill="none" class="icon-next slider" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M1.98438 14.1875C1.68438 14.1875 1.48438 14.0875 1.28438 13.8875C0.884375 13.4875 0.884375 12.8875 1.28438 12.4875L6.58437 7.1875L1.28438 1.8875C0.884375 1.4875 0.884375 0.8875 1.28438 0.4875C1.68438 0.0875 2.28438 0.0875 2.68438 0.4875L9.38438 7.1875L2.68438 13.8875C2.48438 14.0875 2.28438 14.1875 1.98438 14.1875Z"/>
+                                   </svg>
+                                       
+                               </button>
+                           </div>
+                        </div>
+                    </li> 
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/8.jpg" alt="low-sugar yogurts " class="brands-product-image" width="670" height="380">
+                        <div class="brands-product-body">
+                            <h3 class="brands-products-title title">Two Good</h3>
+                            <h4 class="brands-products-subtitle subtitle">Branding, Packaging Design, Illustration</h4>
+                            <div class="brands-products-desc"><p>Matterful is proud to have worked 
+                                on this innovative new line of low-sugar yogurts from Danone’s Light 
+                                and Fit portfolio. Full case study coming soon!</p></div>
+                        </div>
+                    </li>
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/9.jpg" alt="Lemonade " class="brands-product-image" width="670" height="380">
+                        <div class="brands-product-body">
+                            <h3 class="brands-products-title title">Red Jacket Juice</h3>
+                            <h4 class="brands-products-subtitle subtitle">Packaging Design</h4>
+                            <div class="brands-products-desc"><p>Matterful redesigned several of Red Jackets 
+                                core packaging products; including their premium line of Stomps as well as Joe’s Half & Half and NY-style Lemonade.
+                                Full case study coming soon.</p></div>
+                        </div>
+                    </li>
+                    <li class="brands-product-item portfolio block">
+                        <button class="button button-slider button-back" type="button">
+                            <svg viewBox="0 0 9 15" fill="none" class="icon-back" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.98438 14.1875C7.68438 14.1875 7.48438 14.0875 7.28438 13.8875L0.584381 7.1875L7.28438 0.4875C7.68438 0.0875 8.28438 0.0875 8.68438 0.4875C9.08438 0.8875 9.08438 1.4875 8.68438 1.8875L3.38438 7.1875L8.68438 12.4875C9.08438 12.8875 9.08438 13.4875 8.68438 13.8875C8.48438 14.0875 8.28438 14.1875 7.98438 14.1875Z"/>
+                                </svg>
+                                
+                        </button>
+                        <div class="portfolio-wrapper">
+                            <img src="img/brands-products/person.jpg" alt="avatar " class="brands-product-image" width="100" height="100">
+                            <div class="brands-product-body resume block">
+                                <h3 class="brands-products-title title title-person">Natasha Lichty</h3>
+                                <h4 class="brands-products-subtitle subtitle subtitle-person">Marketing Director , Love Beets</h4>
+                                <div class="brands-products-desc person block"><p>Matterful is more than just
+                                    another design shop looking for another project - they REALLY care about the success
+                                    of their clients. On many occasions, Matterful has come through in the clutch. We surely wouldn't have been able to
+                                    grow at the pace we have without their hard work, guidance and dedication.</p></div>
+                            </div>
+                        </div>
+                        <button class="button button-slider button-next" type="button">
+                            <svg viewBox="0 0 10 15" fill="none" class="icon-next" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1.98438 14.1875C1.68438 14.1875 1.48438 14.0875 1.28438 13.8875C0.884375 13.4875 0.884375 12.8875 1.28438 12.4875L6.58437 7.1875L1.28438 1.8875C0.884375 1.4875 0.884375 0.8875 1.28438 0.4875C1.68438 0.0875 2.28438 0.0875 2.68438 0.4875L9.38438 7.1875L2.68438 13.8875C2.48438 14.0875 2.28438 14.1875 1.98438 14.1875Z"/>
+                             </svg>
+                        </button>
+                    </li>
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/10.jpg" alt="packaging design " class="brands-product-image" width="570" height="324">
+                        <div class="brands-product-body matterful">
+                            <h3 class="brands-products-title title">Love Beets</h3>
+                            <h4 class="brands-products-subtitle subtitle">Packaging Design</h4>
+                            <div class="brands-products-desc love_beets "><p>Matterful recently helped Love
+                                 Beets design an eco-friendly version of packaging design for their popular Cooked Beets sku. Look-out for these fun and whimsical packs in Target,
+                                Costco and other high-profile retailers nationwide!</p></div>
+                        </div>
+                    </li>
+                    <li class="brands-product-item">
+                        <img src="img/brands-products/11.jpg" alt="paper cup" class="brands-product-image only-image" width="570" height="652">
+                       
+                    </li>
+                </ul>
+            </div>    
+        </section>
