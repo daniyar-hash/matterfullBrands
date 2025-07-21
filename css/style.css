@@ -250,7 +250,7 @@ svg *[stroke]{
     display: grid;
     grid-auto-flow: row dense;
     grid-template-columns: 1fr minmax(auto, 170px) 1fr;
-    grid-template-rows: repeat(7, 1fr);
+    grid-template-rows: repeat(6, 1fr);
     grid-template-areas: 
     "     .     col3-item1 col3-item1"
     "col1-item2 col1-item2 col3-item2"
