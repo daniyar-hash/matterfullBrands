@@ -1457,7 +1457,7 @@ text-align: center;
 
   }
   .gallery-brands-list{
-    grid-template-columns: repeat(4, 190px);
+    grid-template-columns: repeat(4, 1fr);
   }
 
 }
